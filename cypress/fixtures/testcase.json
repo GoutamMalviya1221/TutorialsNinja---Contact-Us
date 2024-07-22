@@ -1,0 +1,28 @@
+{
+    //NAme , email, 
+    "Your Name": "Goutam",
+    "email": "mrking05112001@gmail.com",
+    "Enquiry": "This is test Enquiry"
+
+}
+
+{
+
+    "Your Name": "123456789",
+    "email": "mrking05112001@gmail.com",
+    "Enquiry": "This is test Enquiry"
+
+}
+
+{
+
+    "Your Name": "Goutam",
+    "email": "    ",
+    "Enquiry": "This is test Enquiry"
+}
+
+{
+    "Your Name": "Goutam",
+    "email": "mrking05112001@gmail.com",
+    "Enquiry": "    "
+}
